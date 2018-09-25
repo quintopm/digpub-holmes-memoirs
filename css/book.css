@@ -4,5 +4,10 @@
 }
 
 p {
-  font-family: cursive;
+  font-family: fantasy;
+}
+
+time {
+  font-weight: bold;
+  font-family: inherit;
 }
